@@ -23,7 +23,7 @@ go build
 
 # Thanks
 
-At the moment mockafka it's just a wrapper on wonderful [librdkafka](https://github.com/edenhill/librdkafka) library functionality from [Magnus Edenhill](https://github.com/edenhill)
+At the moment mockafka is just a wrapper on wonderful [librdkafka](https://github.com/edenhill/librdkafka) library functionality from [Magnus Edenhill](https://github.com/edenhill)
 
 As stated in:
 https://docs.confluent.io/platform/current/clients/confluent-kafka-go/index.html#MockCluster
